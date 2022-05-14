@@ -1,0 +1,100 @@
+<mjml>
+  <mj-head>
+    <mj-title>SHIFT INC</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500"></mj-font>
+
+    <mj-attributes>
+      <mj-all font-family="Arial" padding="0"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px"></mj-text>
+      <mj-class name="spanText" align="center" color="#9B9B9B" font-size="12px" />
+      <mj-class name="centralize" padding="82px 64px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#E5E5E5" width="848px">
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="spanText">Writing Email Markting For SHIFT INC</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper background-color="#3E3E3E" mj-class="centralize" border-radius="10px 10px 0 0">
+      <mj-section>
+        <mj-column>
+          <mj-image src="https://i.ibb.co/6PNSBjW/Logo2.png" alt="Logo SHIFT INC" height="63px" width="265px" align="left" />
+        </mj-column>
+      </mj-section>
+      <mj-section direction="rtl">
+        <mj-column>
+          <mj-spacer height="35px" />
+          <mj-image src="https://i.ibb.co/VgYFh5h/Vector.png" alt="Vector Green Small" height="61px" width="126px" align="right" />
+          <mj-spacer height="14.43px" />
+          <mj-image src="https://i.ibb.co/pdWKkKh/Vector-bigger.png" alt="Vector Gray Big" height="142px" width="291px" align="right" />
+        </mj-column>
+        <mj-column>
+          <mj-spacer height="150px" />
+          <mj-text font-family="Arial" font-weight="700" font-size="70px" line-height="64px" color="#DDDDDD" align="center">
+            TESTE <br> EMAIL
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper background-color="#FFFFFF" mj-class="centralize" border-radius="5px 5px 0 0">
+      <mj-section>
+        <mj-column>
+          <mj-text align="left" font-family="Arial" font-size="45px" font-weight="700" line-height="56px" letter-spacing="0.03em" color="#3E3E3E">
+            Obrigado por participar do <br>
+            nosso teste de EMAIL!
+          </mj-text>
+          <mj-spacer height="48px" />
+          <mj-text align="left" font-family="Arial" font-size="30px" font-weight="700" line-height="32px" color="#3E3E3E">
+            Olá Aspirante,
+          </mj-text>
+          <mj-spacer height="32px" />
+          <mj-text align="left" font-family="Arial" font-size="18px" font-weight="400" line-height="32px" color="#3E3E3E">
+            Este é um email marketing e o seu teste consiste em desenvolve-lo, aplicando as <br>
+            melhores práticas para este tipo de peça.
+            <br> <br>
+            <span>Cuidado:</span> Para email, precisamos voltar aos primórdios de diagramação Web (tabelas). <br>
+            Uma vez que os clients de email travam diversas tags e estilos globais. Isso para <br>
+            proteção do webmail em geral, portanto é necessário ter atenção e pesquisar as <br>
+            melhores práticas (além das que pontuamos aqui).
+            <br> <br>
+            <span>Faça e envie:</span> Crie um repositório público no Github e envie o email: <br>
+            contato@shiftinc.com.br com o título: "Teste de email".
+            <br> <br>
+            Critérios de avaliação:
+          </mj-text>
+          <mj-spacer height="32px" />
+          <mj-text align="left" font-family="Arial" font-size="14px" font-weight="400" line-height="24px" color="#000000">
+             ✔️ HTML semântico e boas práticas em geral
+          </mj-text>
+          <mj-spacer height="16px" />
+          <mj-text align="left" font-family="Arial" font-size="14px" font-weight="400" line-height="24px" color="#000000">
+             ✔️ Uso de CSS inline
+          </mj-text>
+          <mj-spacer height="16px" />
+          <mj-text align="left" font-family="Arial" font-size="14px" font-weight="400" line-height="24px" color="#000000">
+             ✔️ Melhor aproveitamento de uso de tabelas. Evitar exageros. Utilização de colspan e rolspan - se necessário.
+          </mj-text>
+          <mj-spacer height="16px" />
+          <mj-text align="left" font-family="Arial" font-size="14px" font-weight="400" line-height="24px" color="#000000">
+             ✔️ Teste visual do email nos principais clientes: Gmail, Outlook, Mail, Yahoo, ...
+          </mj-text>
+          <mj-spacer height="68px" />
+          <mj-button align="left" height="58px" width="217px" border-radius="12px" background-color="#28E289" color="#000000" href="https://www.shiftinc.com.br/">
+            <strong>Acesse o site da SHIFT<strong>
+          </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-spacer height="100px" />
+          <mj-text align="left" font-weight="400" font-size="16px" line-height="24px" letter-spacing="0.03em" font-family="Maison Neue" color="#3E3E3E">
+            Com carinho, Equipe SHIFT. <br>
+            Copyright © 2022 SHIFT, Todos os direitos reservados.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
