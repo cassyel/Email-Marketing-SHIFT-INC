@@ -32,7 +32,7 @@
         </mj-column>
         <mj-column>
           <mj-spacer height="150px" />
-          <mj-text font-family="Arial" font-weight="700" font-size="70px" line-height="64px" color="#DDDDDD" align="center">
+          <mj-text font-family="Arial" font-weight="700" font-size="70px" line-height="64px" color="#DDDDDD" align="left">
             TESTE <br> EMAIL
           </mj-text>
         </mj-column>
